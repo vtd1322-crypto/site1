@@ -1,0 +1,9 @@
+{
+  "name": "site1",
+  "version": "1.0.0",
+  "description": "Website giới thiệu về Việt Nam",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
